@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Credit Card Reader</string>
+    <string name="action_OpenGallery">Open Gallery</string>
+    <string name="action_TakePic">Take Picture</string>
+    <string name="action_ViewCardDB">View Card List</string>
+    <string name="delete">Delete list</string>
+</resources>

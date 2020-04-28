@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/picView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/add_image_pic" />
+
+    <TextView
+        android:id="@+id/NumberTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/picView"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:layout_centerHorizontal="true"
+        android:text="Number: " />
+
+    <TextView
+        android:id="@+id/ExpirationDateTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/NumberTextView"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:layout_centerHorizontal="true"
+        android:text="Expiration Date: " />
+
+    <Button
+    android:id="@+id/saveButton"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/ExpirationDateTextView"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:layout_centerHorizontal="true"
+    android:text="Save card"/>
+
+</RelativeLayout>
