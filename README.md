@@ -13,4 +13,4 @@ Credit card data can be stored and shared via mail, whatsapp etc.
 * Tesseract for Optical Character Recognition
 
 # App Preview
-<img src="AppScreen.jpeg" alt="Screen" width="200" height="450" />
+<img src="AppScreen.jpeg" alt="Screen" width="300" height="550" />
