@@ -1,2 +1,6 @@
 # Credit-Card-Reader-Android-App
-Android app allowing to take a picture of a credit card and getting data from it
+Android app allowing to take a picture of a credit card and getting data from it.
+
+# External libraries
+OpenCV for Android
+Tesseract for Optical Character Recognition
