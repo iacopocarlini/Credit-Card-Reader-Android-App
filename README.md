@@ -9,7 +9,7 @@ Credit card data can be stored and shared via mail, whatsapp etc.
 * File eng.traineddata has to be placed in device file system at path "/storage/emulated/0/tesseract/tessdata/eng.traineddata"
 
 # External libraries
-* OpenCV Android SDK (v. 3.4.3) (you can find it at: https://sourceforge.net/projects/opencvlibrary/files/opencv-android/3.4.3/opencv-3.4.3-android-sdk.zip/download)   
+* [OpenCV Android SDK (v. 3.4.3)](https://sourceforge.net/projects/opencvlibrary/files/opencv-android/3.4.3/opencv-3.4.3-android-sdk.zip/download)   
 * Tesseract for Optical Character Recognition
 
 # App Preview
