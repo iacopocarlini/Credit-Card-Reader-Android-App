@@ -1,5 +1,5 @@
 # Credit-Card-Reader-Android-App
-Android app allowing to take a picture of a credit card and getting data from it.
+Android app allowing to take a picture of a credit card and to get data from it.
 
 # Features
 Credit card data can be stored and shared via mail, whatsapp etc. 
